@@ -1,0 +1,149 @@
+   1  node -v
+    2  git clone https://github.com/DalitsoRadebe/task-1-prac.git
+    3  cd dalitsoradebe
+    4  ls
+    5  cd task-1-prac
+    6  ls
+    7  history
+    8  ls
+    9  cd..
+   10  cd ..
+   11  cd desktop
+   12  ls
+   13  cd task-1-prac
+   14  ls
+   15  git pull origion main
+   16  cd ..
+   17  git pull origion main
+   18  cd task-1-prac
+   19  ls
+   20  git pull origion main
+   21  cd task-1-prac
+   22  ls
+   23  git pull origion main
+   24  git pull origin main
+   25  code .
+   26   pwd
+   27  ls
+   28  mkdir $null > "shell_intro.sh
+   29  mkdir $null > "shell_intro.sh"
+   30  ls
+   31  ls
+   32  cd ..
+   33  cd task-1-prac
+   34  mkdir $null > "shell_intro.sh"
+   35  ls
+   36  ls
+   37  cd task-1-prac
+   38  ls
+   39  mkdir shell_intro.sh
+   40  echo $null > "treasure"
+   41  ls
+   42  echo "blacket" > treasure
+   43  ls
+   44  echo "welcome to the shell" > shell_intro.sh
+   45  pwd
+   46  ls
+   47  echo $null > reflection.txt
+   48  ls
+   49  nano shell_intro.sh]\
+   50  nano shell_intro.sh
+   51  nano shell_intro.sh
+   52  cd task-1-prac
+   53  ls
+   54  chmod +x shell_intro.sh
+   55  ./shell_intro.sh
+   56  nano shell_intro.sh
+   57  chmod +x shell_intro.sh
+   58  ./shell_intro.sh
+   59  nano shell_intro.sh
+   60  chmod +x shell_intro.sh
+   61  ./shell_intro.sh
+   62  echo $null > reflection.txt
+   63  ls
+   64  git commit
+   65  git add <shell_intro.sh>
+   66  git add "reflection.txt"
+   67  git commit
+   68  git commit
+   69  # Please enter the commit message for your changes. Lines starting
+   70  # with '#' will be ignored, and an empty message aborts the commit.
+   71  #
+   72  # Committer: John Radebe <0307295707086@tpc.local>
+   73  #
+   74  # On branch main
+   75  # Your branch is up to date with 'origin/main'.
+   76  #
+   77  # Changes to be committed:
+   78  #new file:   reflection.txt
+   79  #
+   80  # Untracked files:
+   81  #shell_intro.sh
+   82  git commit
+   83  # Please enter the commit message for your changes. Lines starting
+   84  # with '#' will be ignored, and an empty message aborts the commit.
+   85  #
+   86  # Committer: John Radebe <0307295707086@tpc.local>
+   87  #
+   88  # Your branch is up to date with 'origin/main'.
+   89  #
+   90  # Changes to be committed:
+   91  #        new file:   reflection.txt
+   92  #
+   93  # Untracked files:
+   94  #        shell_intro.sh
+   95  #
+   96  nano shell_intro.sh
+   97  git commit
+   98  git add
+   99  git add shell_intro.sh
+  100  git commit
+  101  Committer: John Radebe <0307295707086@tpc.local>On branch main
+  102  # Your branch is up to date with 'origin/main'.Changes to be committed:
+  103  #new file:   reflection.txt
+  104  #new file:   shell_intro.sh
+  105  git push
+  106  ls
+  107  cd task-1-prac
+  108  ls
+  109  echo "the shell is my translator to the OS"
+  110  pwd
+  111  ls
+  112  cd ..
+  113  cd task-1-prac
+  114  cd ..
+  115  cd..
+  116  cd .
+  117  cd ..
+  118  cd task-1-prac
+  119  ls
+  120  ls
+  121  echo "the shell is my translator to the OS"
+  122  pwd
+  123  ls
+  124  cd ..
+  125  cd task-1-prac
+  126  nano shell_intro.sh
+  127  ./shell_intro.sh
+  128  nano shell_intro.sh
+  129  chmod +x shell_intro.sh
+  130  ./shell_intro.sh
+  131  ls
+  132  echo "the shell is my translator to the OS"
+  133  pwd
+  134  ls
+  135  cd task-1-prac
+  136  echo "the shell is my transalator to the OS"
+  137  pwd\
+  138  cd task-1-prac
+  139  echo "the shell is my translator to the OS"
+  140  pwd
+  141  ls
+  142  cd ..
+  143  cd task-1-prac
+  144  nano shell_intro.sh
+  145  chmod +x shell_intro.sh
+  146  ./shell_intro.sh
+  147  echo $null > reflection.txt
+  148  echo "1. the purpose of the shell is to make visual things that we see on the computer easier, we are no longer seeing numbers instead we are seeing words instead of the binary language like a computer" "2. I learnt that what we see as humans on a computer, is not necessarily what the computer see's instead it see's many one's and zero's" "3. it was an unforgettable expirience, it was complicated at first but it was fun as I adjusted to it" > reflection.txt
+  149  history
