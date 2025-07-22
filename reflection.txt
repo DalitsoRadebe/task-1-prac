@@ -1,0 +1,1 @@
+1. It is a command line interpreter that allows user to navigate through a computer by typing commands rather than navigating by clicking on icons on desktop\2. We leanrt that we can tell the computer what to do just by writing a command\ 3. Firstly it was Tricky but as time went on it became fun and a bit easy to use.
